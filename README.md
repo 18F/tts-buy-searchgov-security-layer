@@ -1,24 +1,45 @@
-# Elastic X-Pack for Search.gov
+# Search.gov Security Layer
 
-This is the GitHub repository for [an RFI](https://docs.google.com/forms/d/e/1FAIpQLSd4kdZiR8MJ04qUdL5QwvWRGN9pFHxAKeskUB0qt5XccgTYLg/viewform?usp=sf_link), posted on eBuy. Please submit any questions as [an Issue](https://github.com/18F/tts-buy-elastic-x-pack/issues) in this repository by *November 22, 2017 at 5:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+Please submit any questions as GitHub issues in this repository by *MONTH DD, 2018 4:00pm EST*. The TTS Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
-**Responses are due by November 27, 2017 at 5:00pm EST.**
+**Proposals are due by MONTH DD, 2018 at 4:00 PM EST.**
 
 ## Background
 
-Over 1,900 Government websites have search bars run through the Search.gov platform. As part of these efforts, it is important that a certain level of security is kept and maintained. The tools provided by the Elastic X-Pack allow for the Search.gov team to meet those security needs. As a result, the Government is seeking sources who can provide this product or an alternate product that meets these functional capabilities and services:    
+General Services Administration’s (GSA) Office of Products and Programs (OPP) is the sponsoring organization for Search.gov. For 15 years, Search.gov has transformed the public’s search experience and saved Government agencies valuable resources and money by providing site search services for Government websites.
 
-* Security
-* Alerting
-* Monitoring
-* Reporting
-* Graphing / Visualizations
-* Machine Learning
-* Elasticsearch technical support
+The Search.gov application powers the search box on thousands of federal government websites, including:
+* NASA.gov
+* SSA.gov
+* USCIS.gov
+
+The Search.gov application uses Elastic’s technology stack, including Elasticsearch, Logstash, and Kibana. As a result of the use of this technical infrastructure and the need for application security, monitoring, and reporting, Search.gov requires a subscription for Elastic’s other complementary products, available through the X-Pack  Platinum subscription. Additionally, Search.gov will require access to technical support services available through these subscriptions.
+
+### What we're hoping to end up with
+
+Additional information is provided in [Section 3.0](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#30-requirements) of the RFQ, but in short:
+
+> The requirement is for Elastic X-Pack Platinum subscription license.
 
 ### How to respond
 
-We can only commit to reviewing those responses submitted through the Google Form, linked above..
+Additional information is provided in [Section 1.0](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#10-instructions) of the RFQ, but in short:
+
+> Quotes will only be accepted via the linked Google Forms.
+
+### Period of performance
+
+Additional information is provided in [Section 5.0](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#50-period-of-performance) of the RFQ, but in short:
+
+> one (1) Base Period of twelve (12) months and three (3) Option Periods of twelve (12) months each
+
+## Contents
+
+1. [Request for Quotation (RFQ)](solicitation_documents/RFQ.md)
+
+2. [Technical Response Form](https://goo.gl/forms/ZfQYsZshh2Wsq67720)
+
+3. [Pricing Response Form](https://goo.gl/forms/GIu4ogYj8cR8wHlr1)
 
 ## Contributing
 
