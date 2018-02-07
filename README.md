@@ -6,14 +6,14 @@ This RFQ hhas been issued via GSA eBuy under RFQ1255040. Please submit any quest
 
 ## Background
 
-General Services Administration’s (GSA) Office of Products and Programs (OPP) is the sponsoring organization for Search.gov. For 15 years, Search.gov has transformed the public’s search experience and saved Government agencies valuable resources and money by providing site search services for Government websites.
+General Services Administration’s (GSA) Office of Products and Programs (OPP) is the sponsoring organization for [Search.gov](https://search.gov/). For 15 years, [Search.gov](https://search.gov/) has transformed the public’s search experience and saved Government agencies valuable resources and money by providing site search services for Government websites.
 
-The Search.gov application powers the search box on thousands of federal government websites, including:
+The [Search.gov](https://search.gov/) application powers the search box on thousands of federal government websites, including:
 * NASA.gov
 * SSA.gov
 * USCIS.gov
 
-The Search.gov application uses Elastic’s technology stack, including Elasticsearch, Logstash, and Kibana. As a result of the use of this technical infrastructure and the need for application security, monitoring, and reporting, Search.gov requires a subscription for Elastic’s other complementary products, available through the X-Pack  Platinum subscription. Additionally, Search.gov will require access to technical support services available through these subscriptions.
+The [Search.gov](https://search.gov/) application uses Elastic’s technology stack, including Elasticsearch, Logstash, and Kibana. As a result of the use of this technical infrastructure and the need for application security, monitoring, and reporting, [Search.gov](https://search.gov/) requires a subscription for Elastic’s other complementary products, available through the X-Pack  Platinum subscription. Additionally, [Search.gov](https://search.gov/) will require access to technical support services available through these subscriptions.
 
 ### What we're hoping to end up with
 
