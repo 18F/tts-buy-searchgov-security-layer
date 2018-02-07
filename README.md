@@ -17,19 +17,19 @@ The Search.gov application uses Elastic’s technology stack, including Elastics
 
 ### What we're hoping to end up with
 
-Additional information is provided in [Section 3.0](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#30-requirements) of the RFQ, but in short:
+Additional information is provided in [Section 3.0](https://github.com/18F/tts-buy-searchgov-security-layer/blob/master/solicitation_documents/RFQ.md#30-requirements) of the RFQ, but in short:
 
 > The requirement is for Elastic X-Pack Platinum subscription license.
 
 ### How to respond
 
-Additional information is provided in [Section 1.0](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#10-instructions) of the RFQ, but in short:
+Additional information is provided in [Section 1.0](https://github.com/18F/tts-buy-searchgov-security-layer/blob/master/solicitation_documents/RFQ.md#10-instructions) of the RFQ, but in short:
 
 > Quotes will only be accepted via the linked Google Forms.
 
 ### Period of performance
 
-Additional information is provided in [Section 5.0](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#50-period-of-performance) of the RFQ, but in short:
+Additional information is provided in [Section 5.0](https://github.com/18F/tts-buy-searchgov-security-layer/blob/master/solicitation_documents/RFQ.md#50-period-of-performance) of the RFQ, but in short:
 
 > one (1) Base Period of twelve (12) months and three (3) Option Periods of twelve (12) months each
 
@@ -37,9 +37,9 @@ Additional information is provided in [Section 5.0](https://github.com/18F/tts-b
 
 1. [Request for Quotation (RFQ)](solicitation_documents/RFQ.md)
 
-2. [Technical Response Form](https://goo.gl/forms/ZfQYsZshh2Wsq67720)
+2. [Technical Response Form](https://docs.google.com/forms/d/e/1FAIpQLSdl2UUiHF8F4g_HrgeiBgMeXLDjF6pYDggddRVj5SPWvNkpjw/viewform)
 
-3. [Pricing Response Form](https://goo.gl/forms/GIu4ogYj8cR8wHlr1)
+3. [Pricing Response Form](https://docs.google.com/forms/d/e/1FAIpQLSdUpEdumVn_YFuOr6_GtTao6Z4YoBtGBoevWk_U9UHnlMqybQ/viewform)
 
 ## Contributing
 
