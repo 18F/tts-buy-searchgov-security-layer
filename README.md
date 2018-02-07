@@ -1,8 +1,8 @@
 # Search.gov Security Layer
 
-Please submit any questions as GitHub issues in this repository by *MONTH DD, 2018 4:00pm EST*. The TTS Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+This RFQ hhas been issued via GSA eBuy under RFQ1255040. Please submit any questions as GitHub issues in this repository by *February 9, 2018 12:00pm EST*. The TTS Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
-**Proposals are due by MONTH DD, 2018 at 4:00 PM EST.**
+**Proposals are due by February 12, 2018 at 12:00 PM EST.**
 
 ## Background
 
